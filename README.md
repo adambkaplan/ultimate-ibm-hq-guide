@@ -23,11 +23,11 @@ Compiled and maintained by a native Westchester-ite who has since become one of 
 
 Despite what folks in NYC may say, Westchester isn't "upstate" and devoid of good food. The best spots in and near Armonk are here, categorized roughly by price point and utility:
 
-1. [Ginni Pays](food/ginni-pays) - when you want to celebrate that the deal has closed.
-2. [Nice Dinner](food/nice-dinner) - places to go after a long day of strategizing and synergizing.
-3. [Work Lunch](food/work-lunch) - get things done a short hop from HQ.
-4. [Hidden Gems](food/hidden-gems) - when you are feel like a culinary adventure.
-5. [Bring Rolaids](food/bring-rolaids) - spots worthy of a Guy Fierdi segment.
+1. [Ginni Pays](food/ginni-pays.md) - when you want to celebrate that the deal has closed.
+2. [Nice Dinner](food/nice-dinner.md) - places to go after a long day of strategizing and synergizing.
+3. [Work Lunch](food/work-lunch.md) - get things done a short hop from HQ.
+4. [Hidden Gems](food/hidden-gems.md) - when you are feel like a culinary adventure.
+5. [Bring Rolaids](food/bring-rolaids.md) - spots worthy of a Guy Fierdi segment.
 
 ## Drink
 
