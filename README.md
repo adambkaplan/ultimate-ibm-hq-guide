@@ -27,7 +27,7 @@ Despite what folks in NYC may say, Westchester isn't "upstate" and devoid of goo
 2. [Nice Dinner](food/nice-dinner.md) - places to go after a long day of strategizing and synergizing.
 3. [Work Lunch](food/work-lunch.md) - get things done a short hop from HQ.
 4. [Hidden Gems](food/hidden-gems.md) - when you are feel like a culinary adventure.
-5. [Bring Rolaids](food/bring-rolaids.md) - spots worthy of a Guy Fierdi segment.
+5. [Bring Rolaids](food/bring-rolaids.md) - spots worthy of a Guy Fieri segment.
 
 ## Drink
 
