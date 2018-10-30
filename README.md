@@ -31,8 +31,8 @@ Despite what folks in NYC may say, Westchester isn't "upstate" and devoid of goo
 
 ## Drink
 
-Coming soon - submit an [issue or pull request](CONTRIBUTING)!
+Coming soon - submit an [issue or pull request](CONTRIBUTING.md)!
 
 ## Entertainment
 
-Coming soon - submit an [issue or pull request](CONTRIBUTING)!
+Coming soon - submit an [issue or pull request](CONTRIBUTING.md)!
